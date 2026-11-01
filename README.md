@@ -11,7 +11,7 @@ I build backend systems and cloud infrastructure, and I like proving with number
 ### PitWall: F1 lap telemetry analyzer on AWS
 [**Code**](https://github.com/ManvithKarkera/pitwall) · FastAPI · React · PostgreSQL · AWS · CloudFormation
 
-<a href="https://github.com/ManvithKarkera/pitwall"><img src="assets/pitwall.png" alt="PitWall comparing Norris and Leclerc, 2024 Italian GP qualifying" width="720"></a>
+<a href="https://github.com/ManvithKarkera/pitwall"><img src="assets/pitwall.jpg" alt="PitWall comparing Russell and Hamilton" width="720"></a>
 
 Pick any two F1 drivers' laps and see where the time was won: speed, throttle, brake and gear traces, a running gap, and a track map coloured by who was faster.
 
