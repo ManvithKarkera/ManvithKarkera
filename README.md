@@ -1,6 +1,6 @@
 ## Manvith Karkera
 
-Computer Engineering student at Fr. Conceicao Rodrigues College of Engineering, Mumbai (graduating 2028, CGPA 9.29/10). I mostly work on backends and cloud setups, and I like testing my projects against real data.
+Computer Engineering student at Fr. Conceicao Rodrigues College of Engineering, Mumbai (graduating 2028, CGPA 9.22/10). I mostly work on backends and cloud setups, and I like testing my projects against real data.
 
 Looking for software or backend internships for winter 2026 and summer 2027, remote or in Mumbai.<br>
 Email: [manvith.karkera176@gmail.com](mailto:manvith.karkera176@gmail.com) · [LinkedIn](https://www.linkedin.com/in/manvith-karkera-176f)
@@ -20,6 +20,8 @@ Pick two F1 drivers' laps and see where the time was gained or lost. It overlays
 
 ### note2recall: flashcards from your own lecture notes
 [Live](https://note2recall.vercel.app) · [Code](https://github.com/ManvithKarkera/note2recall) · Python, spaCy, scikit-learn, Sentence-Transformers, FastAPI, React
+
+<a href="https://note2recall.vercel.app"><img src="assets/note2recall.jpg" alt="note2recall flashcard showing the answer highlighted in its source sentence from page 62" width="720"></a>
 
 Upload lecture PDFs (scanned ones work too, through OCR) and get flashcards. Each card links back to the sentence and page it came from. It uses classic NLP and runs locally, with no LLM calls.
 
